@@ -267,13 +267,13 @@ const Score = () => {
                               <div className={`h-full flex flex-col `}>
                                 <h4 className={`text-[6px] mt-1`}>
                                   {data.date}
-                                </h4>
+                                </h4>{/*
                                 <h4 className={`text-[6px] mt-1`}>
                                   {data.time}
                                 </h4>
                                 <h4 className={`text-[6px] mt-1`}>
                                   {data.location}
-                                </h4>
+                                </h4>*/}
                               </div>
                             </div>
                           </div>
@@ -360,7 +360,7 @@ const Score = () => {
                             </div>
                           </div>
                         </div>
-                        <div className={`my-2`}>{data.won} WON</div>
+                        {/*<div className={`my-2`}>{data.won} WON</div>*/}
                       </div>
                     );
                   })}
@@ -594,13 +594,13 @@ const Score = () => {
                           <div className={` mt-8`}>
                             <h4 className={`text-[10px] mt-1`}>
                               DATE-{data.date}
-                            </h4>
+                            </h4>{/*
                             <h4 className={`text-[10px] mt-1`}>
                               TIME-{data.time}
                             </h4>
                             <h4 className={`text-[10px] mt-1`}>
                               LOCATION {data.location}
-                            </h4>
+                            </h4>*/}
                           </div>
                         </div>
                       </div>
@@ -683,9 +683,9 @@ const Score = () => {
                               </div>
                             </div>
                           </div>
-                          <div className={`text-[12px] mb-2`}>
+                          {/*<div className={`text-[12px] mb-2`}>
                             {data.won} WON
-                          </div>
+                          </div>*/}
                         </div>
                       );
                     })}

@@ -7,13 +7,16 @@ import silvermedal from './assets/silvermedal.png';
 const Tally = () => {
     const teams = [
         { rank: 1, logo:'/images/logos/nitrkl.png', name: 'NIT RKL', gold: 4, silver: 1 },
-        { rank: 2, logo:'/images/logos/nitsur.png', name: 'NIT SURATHKAL', gold: 3, silver: 1 },
-        { rank: 3, logo:'', name: 'NIT TRICHY', gold: 2, silver: 1 },
-        { rank: 4, logo:'', name: 'BIT', gold: 1, silver: 1 },
-        { rank: 5, logo:'', name: 'BIT', gold: 1, silver: 1 },
-        { rank: 6, logo:'', name: 'BIT', gold: 1, silver: 1 },
-        { rank: 7, logo:'', name: 'BIT', gold: 1, silver: 1 },
-        { rank: 8, logo:'', name: 'BIT', gold: 1, silver: 1 }
+        { rank: 2, logo:'/images/logos/PMEC.png', name: 'PMEC', gold: 3, silver: 1 },
+        { rank: 3, logo:'/images/logos/GIET.png', name: 'GIET', gold: 2, silver: 1 },
+        { rank: 4, logo:'/images/logos/GCEK.png', name: 'GCEK', gold: 1, silver: 1 },
+        { rank: 5, logo:'/images/logos/KIIT.png', name: 'KIIT', gold: 1, silver: 1 },
+        { rank: 6, logo:'/images/logos/TACT.png', name: 'TACT', gold: 1, silver: 1 },
+        { rank: 7, logo:'/images/logos/VSSUT.png', name: 'VSSUT', gold: 1, silver: 1 },
+        { rank: 8, logo:'/images/logos/IGIT.png', name: 'IGIT', gold: 1, silver: 1 },
+        { rank: 9, logo:'/images/logos/OUTR.png', name: 'OUTR', gold: 1, silver: 1 },
+        { rank: 10, logo:'/images/logos/SSU.png', name: 'SSU', gold: 1, silver: 1 },
+        { rank: 11, logo:'/images/logos/RU.png', name: 'RU', gold: 1, silver: 1 }
       ];
     
       return (
