@@ -12,7 +12,7 @@ const TeamData = [
     {
         id:2,
         name: "Saheel Mohapatra",
-        image: "/images/Team/6.jpg",
+        image: "/images/Team/6.jpeg",
         info: "Convener",
    
        },
