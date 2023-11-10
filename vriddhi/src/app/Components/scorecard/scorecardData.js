@@ -51,19 +51,19 @@ const scoreDataUpcoming = [
     {
         id:'5',
         title:'VRIDDHI-CRICKET',
-        team_1:'GECK',
+        team_1:'GCEK',
         team_2:'KIIT',
         date:'10/11/23',
         time:'6.30PM',
         location:'STS',
-        logo_1:"/images/logos/GECK.png",
+        logo_1:"/images/logos/GCEK.png",
         logo_2:"/images/logos/KIIT.png"
     },
 
     {
         id:'6',
         title:'VRIDDHI-CRICKET',
-        team_1:'NITR',
+        team_1:'NIT RKL',
         team_2:'IGIT',
         date:'10/11/23',
         time:'6.30PM',
@@ -132,7 +132,7 @@ const scoreDataUpcoming = [
     {
         id:'9',
         title:'VRIDDHI-FOOTBALL',
-        team_1:'NITR',
+        team_1:'NIT RKL',
         team_2:'IGIT',
         date:'10/11/23',
         time:'6.30PM',
@@ -283,7 +283,7 @@ const scoreDataUpcoming = [
         id:'15',
         title:'VRIDDHI-KABBADI',
         team_1:'PMEC(2)',
-        team_2:'NITR(W)',
+        team_2:'NIT RKL(W)',
         date:'23RD SEPT',
         time:'6.30PM',
         location:'STS',
@@ -334,7 +334,7 @@ const scoreDataCompleted = [
     {
         id: '5',
         title: 'VRIDDHI-CRICKET',
-        team_1: 'NITR',
+        team_1: 'NIT RKL',
         team_2: 'OUTR',
         logo_1:"/images/logos/NITRKL.png",
         logo_2:"/images/logos/OUTR.png",
@@ -399,7 +399,7 @@ const scoreDataCompleted = [
     {
         id: '6',
         title: 'VRIDDHI-FOOTBALL',
-        team_1: 'NITR',
+        team_1: 'NIT RKL',
         team_2: 'GIET',
         logo_1:"/images/logos/NITRKL.png",
         logo_2:"/images/logos/GIET.png",
@@ -411,7 +411,7 @@ const scoreDataCompleted = [
     {
         id: '7',
         title: 'VRIDDHI-BASKETBALL',
-        team_1: 'NITR',
+        team_1: 'NIT RKL',
         team_2: 'IGIT',
         logo_1:"/images/logos/nitrkl.png",
         logo_2:"/images/logos/IGIT.png",
@@ -438,7 +438,7 @@ const scoreDataCompleted = [
     {
         id: '10',
         title: 'VRIDDHI-BASKETBALL',
-        team_1: 'NITR',
+        team_1: 'NIT RKL',
         team_2: 'PMEC',
         logo_1:"/images/logos/nitrkl.png",
         logo_2:"/images/logos/PMEC.png",
@@ -447,7 +447,7 @@ const scoreDataCompleted = [
     {
         id: '11',
         title: 'VRIDDHI-BASKETBALL',
-        team_1: 'NITR(W)',
+        team_1: 'NIT RKL(W)',
         team_2: 'RU(W)',
         logo_1:"/images/logos/nitrkl.png",
         logo_2:"/images/logos/RU.png",
@@ -541,7 +541,7 @@ const scoreDataCompleted = [
     {
         id: '16',
         title: 'VRIDDHI-KABBADI',
-        team_1: 'NITR',
+        team_1: 'NIT RKL',
         team_2: 'IGIT',
         logo_1:"/images/logos/NITRKL.png",
         logo_2:"/images/logos/IGIT.png",
@@ -550,7 +550,7 @@ const scoreDataCompleted = [
         id: '17',
         title: 'VRIDDHI-KABBADI',
         team_1: 'PMEC(W)',
-        team_2: 'NITR(W)',
+        team_2: 'NIT RKL(W)',
         logo_1:"/images/logos/PMEC.png",
         logo_2:"/images/logos/nitrkl.png",
         won: 'NIT RKL'
